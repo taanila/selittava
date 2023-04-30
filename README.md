@@ -1,3 +1,3 @@
 # selittava
-Selittävän analytiikan perusmenetelmät
-https://tilastoapu.wordpress.com/python
+Selittävän analytiikan perusmenetelmät.
+Lisätietoa https://tilastoapu.wordpress.com/python
